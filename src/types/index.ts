@@ -4,7 +4,8 @@ export interface Project {
   location: string;
   commodity: string;
   commodityTag: string;
-  stage: "Grassroots" | "Advanced Exploration" | "Feasibility" | "Production";
+  stage: "Divested" | "Active" | "Investment";
+  partner: string;
   description: string;
   imageUrl: string;
 }

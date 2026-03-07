@@ -8,13 +8,12 @@ import { projects } from "@/data/projects";
 
 const categories = [
   "All",
-  "Gold",
+  "Uranium",
+  "Tungsten",
   "Copper",
-  "Lithium",
-  "Nickel",
+  "Gold",
+  "Silver",
   "Rare Earths",
-  "Iron Ore",
-  "Polymetallic",
 ];
 
 export default function ProjectsPage() {
