@@ -51,7 +51,7 @@ export default function AboutPage() {
       <PageHero
         title="About Chilli Pepper"
         subtitle="Our Story"
-        backgroundImage="https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=1600&h=800&fit=crop"
+        backgroundImage="https://images.unsplash.com/premium_photo-1702598727831-93feae9a362c?w=1600&h=800&fit=crop"
       />
 
       {/* Our Story */}

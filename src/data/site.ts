@@ -12,7 +12,6 @@ export const companyInfo = {
   name: "Chilli Pepper Pte Ltd",
   tagline: "Where Others See Rock, We See Opportunity",
   address: "151 Chin Swee Rd, #02-24 Manhattan House, Singapore 169876",
-  email: "info@chillipepperpte.com",
-  phone: "+65 XXXX XXXX",
+  email: "chillipeppervc@proton.me",
   linkedinUrl: "#",
 };

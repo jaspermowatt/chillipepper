@@ -59,18 +59,6 @@ export default function ContactPage() {
                     </a>
                   </div>
 
-                  <div>
-                    <p className="font-[family-name:var(--font-mono)] text-[11px] uppercase tracking-[0.2em] text-accent mb-4">
-                      Phone
-                    </p>
-                    <a
-                      href={`tel:${companyInfo.phone}`}
-                      className="text-sm text-text-muted hover:text-text-primary transition-colors"
-                    >
-                      {companyInfo.phone}
-                    </a>
-                  </div>
-
                   {/* Map */}
                   <div className="rounded-xl overflow-hidden border border-border mt-4">
                     <iframe

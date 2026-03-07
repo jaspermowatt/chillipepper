@@ -57,12 +57,6 @@ export function Footer() {
               >
                 {companyInfo.email}
               </a>
-              <a
-                href={`tel:${companyInfo.phone}`}
-                className="block hover:text-accent transition-colors"
-              >
-                {companyInfo.phone}
-              </a>
             </div>
           </div>
         </div>

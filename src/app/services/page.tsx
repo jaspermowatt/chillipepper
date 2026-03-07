@@ -25,7 +25,7 @@ export default function ServicesPage() {
       <PageHero
         title="Our Services"
         subtitle="What We Do"
-        backgroundImage="https://images.unsplash.com/photo-1578319439584-104c94d37305?w=1600&h=800&fit=crop"
+        backgroundImage="https://images.unsplash.com/premium_photo-1663047762281-a1ad75d824aa?w=1600&h=800&fit=crop"
       />
 
       <section className="py-24 md:py-32">

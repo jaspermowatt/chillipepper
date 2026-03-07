@@ -30,7 +30,7 @@ export default function ProjectsPage() {
       <PageHero
         title="Track Record"
         subtitle="Selected Projects"
-        backgroundImage="https://images.unsplash.com/photo-1605732562742-3023a888e56e?w=1600&h=800&fit=crop"
+        backgroundImage="https://images.unsplash.com/photo-1659291457360-13ef34276765?w=1600&h=800&fit=crop"
       />
 
       <section className="py-24 md:py-32 border-t border-border">
