@@ -22,7 +22,7 @@ const values = [
     icon: Handshake,
     title: "Alignment",
     description:
-      "We succeed when our clients succeed. Our interests are aligned — we invest alongside our recommendations.",
+      "We succeed when our clients succeed. We measure ourselves by the quality of the decisions our advice enables, not by deal volume.",
   },
   {
     icon: Eye,

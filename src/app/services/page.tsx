@@ -9,7 +9,7 @@ import type { LucideIcon } from "lucide-react";
 export const metadata: Metadata = {
   title: "Services",
   description:
-    "Explore our services — project generation, due diligence, exploration management, and strategic advisory across all commodities.",
+    "Explore our services — exploration targeting, due diligence, exploration management, and strategic advisory across all commodities.",
 };
 
 const iconMap: Record<string, LucideIcon> = {

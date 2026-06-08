@@ -3,15 +3,15 @@ import type { Service } from "@/types";
 export const services: Service[] = [
   {
     id: "project-generation",
-    title: "Project Generation",
+    title: "Exploration Targeting & Strategy",
     description:
-      "Systematic targeting and land positioning across all commodities and jurisdictions. We identify, evaluate, and secure high-quality exploration opportunities before the market catches on.",
+      "Systematic targeting and area selection across all commodities and jurisdictions. We help clients identify and high-grade prospective ground through data-driven geological assessment.",
     icon: "Crosshair",
     bullets: [
-      "Systematic targeting and land positioning",
+      "Systematic targeting and area selection",
       "Data compilation, GIS, and prospectivity analysis",
-      "Alliance/JV structuring",
-      "Staking and tenure management",
+      "Joint venture and partnership advisory",
+      "Tenure and ground-acquisition strategy advice",
     ],
   },
   {
@@ -44,11 +44,11 @@ export const services: Service[] = [
     id: "strategic-advisory",
     title: "Strategic & Corporate Advisory",
     description:
-      "Board-level geological advisory and transaction support. We help mining companies, investors, and funds navigate acquisitions, divestitures, and strategic decisions with technical clarity.",
+      "Board-level geological advisory and technical support. We help mining companies, investors, and funds make strategic decisions with technical clarity, providing independent input into transactions led by our clients.",
     icon: "TrendingUp",
     bullets: [
-      "Project acquisition and divestiture support",
-      "Valuation and transaction advisory",
+      "Technical support for client-led acquisitions and divestitures",
+      "Independent technical valuation input",
       "Investor materials and technical presentations",
       "Board-level geological advisory",
     ],

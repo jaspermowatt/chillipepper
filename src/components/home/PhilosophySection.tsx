@@ -51,7 +51,7 @@ export function PhilosophySection() {
                   },
                   {
                     title: "Aligned Interests",
-                    desc: "We invest alongside our recommendations. Your success is ours.",
+                    desc: "Independent advice with no conflicts. Your success is the only measure of ours.",
                   },
                   {
                     title: "Global Network",

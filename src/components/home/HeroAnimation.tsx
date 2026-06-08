@@ -77,9 +77,9 @@ export function HeroAnimation() {
           transition={{ duration: 0.6, delay: 0.9 }}
           className="mt-8 text-base md:text-lg text-text-muted max-w-lg leading-relaxed"
         >
-          Technical rigour combined with commercial pragmatism. We evaluate,
-          generate, and advance mining projects across all commodities and
-          jurisdictions.
+          Technical rigour combined with commercial pragmatism. We provide
+          independent geological evaluation and advisory across all commodities
+          and jurisdictions.
         </motion.p>
 
         <motion.div
@@ -89,10 +89,10 @@ export function HeroAnimation() {
           className="mt-10 flex flex-wrap gap-4"
         >
           <Link
-            href="/projects"
+            href="/services"
             className="inline-flex items-center gap-2 bg-accent hover:bg-accent-hover text-white font-medium px-7 py-3.5 rounded-full transition-all duration-200 group"
           >
-            Explore Our Work
+            Our Services
             <ArrowRight size={16} className="group-hover:translate-x-0.5 transition-transform" />
           </Link>
           <Link
