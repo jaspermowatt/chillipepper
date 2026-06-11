@@ -17,6 +17,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://chillipeppervc.com"),
   title: {
     default: "Chilli Pepper | Mining Exploration Consultancy | Singapore",
     template: "%s | Chilli Pepper Pte Ltd",
